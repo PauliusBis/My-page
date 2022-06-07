@@ -1,1 +1,1 @@
-# My-page
+# My-page tikslas - mokymų metu, sukurti svetainę. Kuri galėtų atspindėti studento pasiekimus ir įgūdžius, bei galėtų pasitarnauti pačiam studentui kaip mokomoji medžiaga arba atmintinė. Taip pat galima būtų parodyti darbdaviams ieškant darbo. Ir tai tikrai parodytų ką studentas gali atlikti, su kokiais įrankiais ir technologijomis yra susipažinęs mokymų metu. 
